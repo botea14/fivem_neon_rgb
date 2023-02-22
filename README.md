@@ -16,3 +16,9 @@ It should also turn on headlights, if they are not already turned ON.
 Key HOME -- change in cl_neon.lua if you want to set it to other key (last row)
 
 Works also with /neon chat command.
+
+
+BUGS:
+-passager is able to change color (visible only for passager)
+-car will keep neons and headlights turned on after player leaves it.
+-maybe others...
